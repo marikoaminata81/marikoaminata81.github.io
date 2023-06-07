@@ -1,1 +1,0 @@
-# marikoaminata81.github.io
