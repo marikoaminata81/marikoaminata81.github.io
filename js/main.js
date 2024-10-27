@@ -16,11 +16,12 @@ window.addEventListener("load", function () {
 
 window.ityped.init(document.querySelector(".iTyped"), {
   strings: [
-    "Analyste Programmeur",
     "UI/UX Designer",
-    "Développeur Web et Mobile",
-    "Experte en WordPress",
     "Designer graphique",
+    "Développeur Web et Mobile",
+    "Analyste Programmeur",
+    "Experte en WordPress",
+    
     
   ],
   loop: true,
